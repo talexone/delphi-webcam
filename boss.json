@@ -1,0 +1,12 @@
+{
+	"name": "webcam",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"github.com/talexone/delphi-directx-headers": "0.0.1",
+		"github.com/talexone/delphi-vfw": "0.0.1"
+	}
+}

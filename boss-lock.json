@@ -1,0 +1,22 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2023-05-20T14:22:36.8586642+02:00",
+	"installedModules": {
+		"github.com/talexone/delphi-directx-headers": {
+			"name": "delphi-directx-headers",
+			"version": "0.0.1",
+			"hash": "2eb4a57d14b81bdacb22161a594f1a9f",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/talexone/delphi-vfw": {
+			"name": "delphi-vfw",
+			"version": "0.0.1",
+			"hash": "f8262a7feb8539c60b6575a34116f812",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
